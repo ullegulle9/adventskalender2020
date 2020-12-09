@@ -26,7 +26,7 @@ const data = {
     },
     {
       "key": "6", // Alec Khaoli
-      "link": "https://open.spotify.com/track/7BFcgPTjdGrAd55v1rZZfg?si=gwuhYFJ9R2Oh8A3f6KUn6w"
+      "link": "https://open.spotify.com/track/0e7XJaJn5w4k4ORy77yG2W?si=S0X8q_koSGG4qnahxvRLWg"
     },
     {
       "key": "7", // Thin Lizzy
